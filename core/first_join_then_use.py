@@ -14,7 +14,7 @@ if not API_TOKEN:
 
 bot = telebot.TeleBot(API_TOKEN)
 
-CHANNEL_ID = "-1002477964914"
+CHANNEL_ID = os.environ.get("CHANNEL_ID")
 CHANNEL_LINK = "https://t.me/+fDdpCYsIGfk4YzZk"
 
 def is_member(message):
