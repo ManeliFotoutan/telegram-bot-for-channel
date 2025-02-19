@@ -1,7 +1,3 @@
-Here's a **README** for your Telegram bot project:
-
----
-
 # Telegram Bot for Channel Management and RSS Feed Updates
 
 This project involves creating a Telegram bot that interacts with a specified channel, sends messages, and fetches the latest RSS feed posts periodically. The bot also checks if users are members of the channel before allowing them to interact with the bot.
