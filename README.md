@@ -26,10 +26,6 @@ This project involves creating a Telegram bot that interacts with a specified ch
 
 ### Setup:
 1. **Clone the Repository:**
-   ```bash
-   git clone <your-repository-url>
-   cd <your-repository-directory>
-   ```
 
 2. **Install Dependencies:**
    Make sure you have `telebot` and `dotenv` installed:
